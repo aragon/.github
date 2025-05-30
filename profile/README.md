@@ -19,21 +19,19 @@
   <style>
     .container {
       display: flex;
+      justify-content: center; /* Center the icons horizontally */
       align-items: center; 
-     padding-left: 10px;
+      padding: 10px; /* Adjust padding for better centering */
     }
-    img{
-      margin-left: 15px ;
-      margin-right: 15px;
+    .image {
+      margin: 0 15px; /* Apply margin to the div for consistent spacing */
     }
   </style>
-  <p align="center">
   <body>
     <div class="container">
-      <div class="image"> <a href="https://discord.gg/aragonorg"><img src="https://img.icons8.com/?size=50&id=30888&format=png&color=3164FA" alt="This is my image." height="40"/></a> </div> 
-      <div class="image"> <a href="https://x.com/aragonproject"> <img src="https://img.icons8.com/?size=50&id=zWrz2bjEiP4D&format=png&color=3164FA" alt="This is my second image." height="40px"/> </div> 
-     <div class="image"> <a href="https://blog.aragon.org">  <img src="https://uploads-ssl.webflow.com/5e997428d0f2eb13a90aec8c/635283b535e03c60d5aafe64_logo_aragon_isotype.png" alt="My third image." height="32x"/> </div>
+      <div class="image"> <a href="https://discord.gg/aragonorg"><img src="https://img.icons8.com/?size=50&id=30888&format=png&color=3164FA" height="40"/></a> </div> 
+      <div class="image"> <a href="https://x.com/aragonproject"> <img src="https://img.icons8.com/?size=50&id=zWrz2bjEiP4D&format=png&color=3164FA" height="40"/></a> </div> 
+      <div class="image"> <a href="https://blog.aragon.org"> <img src="https://uploads-ssl.webflow.com/5e997428d0f2eb13a90aec8c/635283b535e03c60d5aafe64_logo_aragon_isotype.png" height="32"/></a> </div>
     </div>
   </body>
-  </p>
 </html>
