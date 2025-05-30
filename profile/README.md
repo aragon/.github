@@ -13,25 +13,17 @@
     <li>
       <a href="https://dune.com/aragonproject/aragon-app-multichain-main-dashboard"><strong>Dune Analytics</strong></a>: Dashboard showing performance metrics and usage statistics for OSx contracts and their governed protocols.
     </li>
-
+    
   </ul>
-  <body>
-    <div class="container" style="display: flex; align-items: center; justify-content: center;">
-      <div class="image" style="margin-right: 10px;">
-        <a href="https://discord.gg/aragonorg">
-          <img src="https://img.icons8.com/?size=50&id=30888&format=png&color=3164FA" height="40" />
-        </a>
-      </div>
-      <div class="image" style="margin-right: 10px;">
-        <a href="https://x.com/aragonproject">
-          <img src="https://img.icons8.com/?size=50&id=zWrz2bjEiP4D&format=png&color=3164FA" height="40" />
-        </a>
-      </div>
-      <div class="image">
-        <a href="https://blog.aragon.org">
-          <img src="https://uploads-ssl.webflow.com/5e997428d0f2eb13a90aec8c/635283b535e03c60d5aafe64_logo_aragon_isotype.png" height="32" />
-        </a>
-      </div>
-    </div>
-  </body>
+  <p align="center">
+    <a href="https://discord.gg/aragonorg">
+      <img src="https://img.icons8.com/?size=40&id=30888&format=png&color=3164FA" height="40" style="margin-right: 40px;" />
+    </a>
+    <a href="https://x.com/aragonproject">
+      <img src="https://img.icons8.com/?size=700&id=zWrz2bjEiP4D&format=png&color=3164FA" height="40" style="margin-right: 40px;" />
+    </a>
+    <a href="https://blog.aragon.org">
+      <img src="https://uploads-ssl.webflow.com/5e997428d0f2eb13a90aec8c/635283b535e03c60d5aafe64_logo_aragon_isotype.png" height="35" style="margin-right: 40px;vertical-align: 1px;" />
+    </a>
+  </p>
 </html>
