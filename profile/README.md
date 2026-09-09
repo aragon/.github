@@ -19,7 +19,6 @@
 <hr>
 
   <p align="center">
-    <a href="https://discord.gg/aragonorg"><img src="https://img.icons8.com/?size=40&id=30888&format=png&color=3164FA" height="40" style='margin: 4em;'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://x.com/aragonproject"><img src="https://img.icons8.com/?size=700&id=zWrz2bjEiP4D&format=png&color=3164FA" height="40" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://blog.aragon.org"><img src="https://uploads-ssl.webflow.com/5e997428d0f2eb13a90aec8c/635283b535e03c60d5aafe64_logo_aragon_isotype.png" height="35">
     </a>
