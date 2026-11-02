@@ -52,7 +52,8 @@ Examples of issues we are especially interested in:
 - Vulnerabilities in third-party dependencies (for example OpenZeppelin), unless Aragon's use of them makes them exploitable. Please report those upstream.
 - Front-running, MEV or timestamp manipulation inherent to the underlying chain, unless they lead to a concrete impact specific to our contracts
 - Gas optimizations, code style and best-practice recommendations without a demonstrable security impact
-- Issues that only affect unsupported or modified versions
+- Projects and versions not currently maintained and explicitly supported by Aragon, including older versions and archived projects, unless expressly included. This exclusion applies even if they remain deployed.
+- Issues introduced solely by third-party modifications, rather than by Aragon-maintained code
 
 Frontend, website, infrastructure and social engineering issues are outside the smart contract scope described above, but reports may still be considered for rewards. Report them to [sirt@aragon.org](mailto:sirt@aragon.org).
 
@@ -77,8 +78,8 @@ We assess severity based on impact and likelihood. If we disagree with your asse
 
 ## Coordinated disclosure
 
-- We aim to fix critical issues as fast as possible, and all issues within 90 days.
-- Aragon cannot upgrade deployed DAOs unilaterally: each DAO applies upgrades through its own governance. When deployed contracts are affected, we coordinate with affected DAOs, their security councils and other relevant parties before any public disclosure. This can extend the timeline beyond 90 days, and we will agree on a disclosure date with you.
+- We aim to prepare fixes within 90 days, prioritizing critical vulnerabilities.
+- Each DAO controls its own upgrades. We cannot identify or contact every deployment, so we coordinate privately with priority affected DAOs based on risk and our ability to reach them. We consider remediation complete for this process once those DAOs have upgraded. We then publish the fix and vulnerability details on a disclosure date agreed with the researcher. This coordination may extend beyond 90 days.
 - Please do not publish details (blog posts, talks, social media) before the advisory is published or the agreed date has passed.
 
 ## Safe harbor
