@@ -2,7 +2,7 @@
 
 Aragon X AG maintains the Aragon OSx and aragonOS smart contract frameworks and their official plugins. These contracts govern and protect real assets held by DAOs, so we treat security reports as a top priority and value the work of researchers who help keep them safe.
 
-This policy applies to every repository under [github.com/aragon](https://github.com/aragon) unless a repository publishes its own `SECURITY.md`.
+This policy applies to the Aragon OSx and aragonOS smart contract frameworks and their official plugins maintained by Aragon. Other software and services maintained by Aragon may also be reported through the channels below. A repository’s presence under [github.com/aragon](https://github.com/aragon) does not by itself place it in scope: third-party forks, archived repositories and unrelated projects are excluded unless explicitly stated otherwise. If a repository publishes its own `SECURITY.md`, that policy takes precedence.
 
 ## Reporting a vulnerability
 
