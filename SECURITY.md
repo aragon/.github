@@ -53,6 +53,7 @@ Examples of issues we are especially interested in:
 - Front-running, MEV or timestamp manipulation inherent to the underlying chain, unless they lead to a concrete impact specific to our contracts
 - Gas optimizations, code style and best-practice recommendations without a demonstrable security impact
 - Projects and versions not currently maintained and explicitly supported by Aragon, including older versions and archived projects, unless expressly included. This exclusion applies even if they remain deployed.
+- Unreleased code, including unreleased changes on the default branch, development branches and pull requests, unless expressly included
 - Issues introduced solely by third-party modifications, rather than by Aragon-maintained code
 
 Frontend, website, infrastructure and social engineering issues are outside the smart contract scope described above, but reports may still be considered for rewards. Report them to [sirt@aragon.org](mailto:sirt@aragon.org).
