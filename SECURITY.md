@@ -17,7 +17,7 @@ Report privately through one of these channels:
 
 If you believe a vulnerability is being actively exploited, or funds are at immediate risk:
 
-- Email [sirt@aragon.org](mailto:sirt@aragon.org) with **`[URGENT]`** at the start of the subject line, and
+- Email [sirt@aragon.org](mailto:sirt@aragon.org) with **`[URGENT]`** at the start of the subject line
 
 Urgent reports are acknowledged within 24 hours.
 
@@ -60,7 +60,7 @@ Frontend, website, infrastructure and social engineering issues are outside the 
 ## Rules of engagement
 
 - Perform vulnerability testing and verification, including proof-of-concept execution, only in isolated local environments, such as local forks or private local test networks. Testing or verifying vulnerabilities on mainnet or public testnets is prohibited, including against contracts or DAOs you deploy or control. Do not broadcast exploit transactions to any public network.
-- Do not access, modify or move funds or data that are not yours, and do not exploit an issue beyond what is needed to demonstrate it.
+- Do not access, modify or move real funds or private data that are not yours, and do not exploit an issue beyond what is needed to demonstrate it.
 - Do not disrupt live contracts, DAOs, services or networks, including through denial-of-service or distributed denial-of-service attacks. Demonstrating a vulnerability that freezes funds, bricks a DAO or prevents governance execution is permitted in the isolated local environments described above.
 - No spam, phishing, social engineering or physical attacks against Aragon, its staff, its users or any DAO.
 - Keep the details confidential until they are publicly disclosed as described below.
