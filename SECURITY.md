@@ -58,7 +58,7 @@ Frontend, website, infrastructure and social engineering issues are outside the 
 
 ## Rules of engagement
 
-- Test only on local forks or testnets. Never test against mainnet deployments or live DAOs.
+- Perform vulnerability testing and verification, including proof-of-concept execution, only in isolated local environments, such as local forks or private local test networks. Testing or verifying vulnerabilities on mainnet or public testnets is prohibited, including against contracts or DAOs you deploy or control. Do not broadcast exploit transactions to any public network.
 - Do not access, modify or move funds or data that are not yours, and do not exploit an issue beyond what is needed to demonstrate it.
 - No denial-of-service, spam, phishing, social engineering or physical attacks against Aragon, its staff, its users or any DAO.
 - Keep the details confidential until they are publicly disclosed as described below.
