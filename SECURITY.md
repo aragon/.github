@@ -19,20 +19,20 @@ If you believe a vulnerability is being actively exploited, or funds are at imme
 
 - Email [sirt@aragon.org](mailto:sirt@aragon.org) with **`[URGENT]`** at the start of the subject line
 
-Urgent reports are acknowledged within 24 hours.
+Notify us immediately about active exploits or funds at immediate risk; a complete proof of concept can follow. Urgent reports are acknowledged within 24 hours.
 
 ### What to include
 
 - Affected repository, contract(s) and version or commit hash
 - Network and contract address, if deployed contracts are affected
 - A description of the vulnerability and its root cause
-- A proof of concept, ideally a Foundry or Hardhat test running against a local fork
+- Smart contract reports must include a working, runnable proof of concept demonstrating the vulnerability and its impact in an isolated local environment, with instructions for reproducing it. Foundry or Hardhat tests are preferred.
 - The impact: what an attacker can achieve, under which preconditions, and an estimate of funds at risk
 - A suggested fix (optional)
 
 ### AI-assisted reports
 
-We welcome findings discovered with the help of AI tools. Every report must still be reviewed and validated by a human before submission and include a working proof of concept or a precise, verifiable explanation. Speculative, unverified or bulk-generated reports will be closed without a detailed response, and repeated low-quality submissions may lead to exclusion from rewards.
+We welcome findings discovered with the help of AI tools. Every report must still be reviewed and validated by a human before submission and meet the reporting requirements above. Speculative, unverified or bulk-generated reports will be closed without a detailed response, and repeated low-quality submissions may lead to exclusion from rewards.
 
 ## Scope
 
@@ -104,4 +104,4 @@ Releases of Aragon OSx and its official plugins are reviewed by independent secu
 
 - Email: [sirt@aragon.org](mailto:sirt@aragon.org)
 
-*Last updated: [2026-11-02]*
+*Last updated: [2026-11-03]*
