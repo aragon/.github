@@ -32,7 +32,7 @@ Urgent reports are acknowledged within 24 hours.
 
 ### AI-assisted reports
 
-We welcome findings discovered with the help of AI tools. Every report must still be reviewed and validated by a human before submission and include a working proof of concept or a precise, verifiable explanation. Speculative, unverified or bulk-generated reports will be closed without a detailed response, and repeated low-quality submissions may lead to exclusion from the bug bounty program.
+We welcome findings discovered with the help of AI tools. Every report must still be reviewed and validated by a human before submission and include a working proof of concept or a precise, verifiable explanation. Speculative, unverified or bulk-generated reports will be closed without a detailed response, and repeated low-quality submissions may lead to exclusion from rewards.
 
 ## Scope
 
@@ -54,7 +54,7 @@ Examples of issues we are especially interested in:
 - Gas optimizations, code style and best-practice recommendations without a demonstrable security impact
 - Issues that only affect unsupported or modified versions
 
-Frontend, website, infrastructure and social engineering issues are not eligible for the smart contract bug bounty, but still elegible for bug bounty so report them to [sirt@aragon.org](mailto:sirt@aragon.org).
+Frontend, website, infrastructure and social engineering issues are outside the smart contract scope described above, but reports may still be considered for rewards. Report them to [sirt@aragon.org](mailto:sirt@aragon.org).
 
 ## Rules of engagement
 
@@ -90,16 +90,16 @@ If you act in good faith and follow this policy, we consider your research autho
 
 We cannot authorize testing of systems we do not own, such as third-party protocols or contracts controlled by individual DAOs. If you are unsure whether an action is covered, contact us before proceeding.
 
-## Bug bounty
+## Bug bounty and rewards
 
-Eligible reports may be rewarded under our bug bounty program. Reward amounts, eligibility, KYC and payment terms are defined there. If the bounty terms and this policy conflict, the bounty terms govern rewards and this policy governs disclosure.
+Aragon handles bug bounty reports through an internal review process. We assess each report individually and award payments for qualifying findings on a case-by-case basis. We do not publish a fixed reward schedule; eligibility, reward amounts and payment requirements are determined during review and communicated directly to the researcher. Submitting a report does not guarantee a reward.
 
 ## Audits
 
-Releases of Aragon OSx and its official plugins are reviewed by independent security firms before deployment. Audits reduce risk but cannot eliminate it, which is why we run this program.
+Releases of Aragon OSx and its official plugins are reviewed by independent security firms before deployment. Audits reduce risk but cannot eliminate it, which is why we welcome vulnerability reports from researchers.
 
 ## Contact
 
 - Email: [sirt@aragon.org](mailto:sirt@aragon.org)
 
-*Last updated: [2026-10-30]*
+*Last updated: [2026-11-02]*
